@@ -23,7 +23,7 @@ cd cookies
 ```
 
 ```console
-open index.html
+open cookie-recipe.html
 ```
 
 ## Planning
